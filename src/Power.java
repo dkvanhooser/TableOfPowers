@@ -6,7 +6,7 @@ public class Power {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Learn your squares and cubes\n");
 		char c;
-		int maxNum = 0;
+		int maxNum;
 		do {
 
 			System.out.print("Please enter an integer to count up to: ");
